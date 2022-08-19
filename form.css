@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: none;
+}
+body{
+    background: yellow;
+}
+form{
+    border: 1px;
+    border-radius: 100px;
+    text-align: center;
+    padding: 200px;
+    border-color: black;
+    font-family: cursive;
+    font-size: 30px;
+    background-color: skyblue;
+}
+
+.name{
+    margin: 10px;
+}
+.lname{
+    margin: 10px;
+}
+.male{
+    margin: 10px;
+}
+.female{
+    margin: 10px;
+}
+.fb{
+    margin: 10px;
+}
+.sb{
+    margin: 10px;
+    font-size: 20px;
+}
